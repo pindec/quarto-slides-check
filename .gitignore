@@ -1,6 +1,8 @@
 
 # output dir
-/docs
+/docs/*
+# except our gitkeep
+!docs/.gitkeep 
 
 
 # R Studio
