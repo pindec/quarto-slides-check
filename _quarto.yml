@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "quarto-slides"
+  
+
+format:
+  revealjs:
+    css: styles.css
+    toc: true
+
+editor: visual
+

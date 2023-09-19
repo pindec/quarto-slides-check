@@ -1,0 +1,10 @@
+
+# output dir
+/docs
+
+
+# R Studio
+*.Rproj
+*.Rproj.user
+/.quarto/
+.Rproj.user
